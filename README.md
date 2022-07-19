@@ -6,6 +6,6 @@ It then tries to solve for x (the power at which the robot's wheels run) at regu
 
 The images below illustrate this process
 
-![Empty graph](https://drive.google.com/file/d/18jRJhs-SAd1rC0RUx1AFrvER2byJqpHi/view?usp=sharing)
+[Empty graph](https://drive.google.com/file/d/18jRJhs-SAd1rC0RUx1AFrvER2byJqpHi/view?usp=sharing)
 
-![Estimation grpah](https://drive.google.com/file/d/1crUS2L0cXw3n-9_J1nuz9KEF38dGlEHW/view?usp=sharing)
+[Estimation grpah](https://drive.google.com/file/d/1crUS2L0cXw3n-9_J1nuz9KEF38dGlEHW/view?usp=sharing)
